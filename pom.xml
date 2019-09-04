@@ -126,8 +126,7 @@
       </plugin>
     </plugins>
   </reporting>
-
-  <distributionManagement>
+<distributionManagement>
     <snapshotRepository>
       <id>deployment</id>
       <name>my snapshot repository</name>
@@ -140,3 +139,4 @@
     </repository>
   </distributionManagement>
 </project>
+ 
